@@ -369,7 +369,8 @@ PRODUCT_PACKAGES += \
     wpa_supplicant \
     hostapd \
     libwifi-hal-wrapper \
-    android.hardware.wifi-service
+    android.hardware.wifi-service \
+    wlan_assistant
 
 # Dex
 PRODUCT_USE_PROFILE_FOR_BOOT_IMAGE := true
