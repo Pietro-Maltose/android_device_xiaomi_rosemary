@@ -1,19 +1,18 @@
 [
   {
-    "repository": "LineageOS/android_device_mediatek_sepolicy_vndr",
+    "repository": "android_device_mediatek_sepolicy_vndr",
     "target_path": "device/mediatek/sepolicy_vndr"
   },
   {
-    "repository": "LineageOS/android_hardware_mediatek",
+    "repository": "android_hardware_mediatek",
     "target_path": "hardware/mediatek"
   },
   {
-    "remote": "circle",
-    "repository": "hardware_xiaomi",
+    "repository": "android_hardware_xiaomi",
     "target_path": "hardware/xiaomi"
   },
   {
-    "repository": "kernel_xiaomi_mt6785",
+    "repository": "android_kernel_xiaomi_mt6785",
     "target_path": "kernel/xiaomi/mt6785"
   }
 ]
