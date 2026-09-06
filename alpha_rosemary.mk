@@ -24,7 +24,7 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_BUILD_PACKAGE := 3
 
 # Maintainer
-ALPHA_BUILD_TYPE := Unofficial
+ALPHA_BUILD_TYPE := Official
 ALPHA_MAINTAINER := Pietroe43
 
 PRODUCT_NAME := alpha_rosemary
